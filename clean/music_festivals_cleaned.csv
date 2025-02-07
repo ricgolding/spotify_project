@@ -1,0 +1,80 @@
+festival_id,country,attendance,age_group,visitor_demographics,economic_impact,genre,currency,demographic_id,country_id,genre_id
+0,United Kingdom,200000.0,18-35, Music Enthusiasts,100000000.0,Various,£,1,1,1
+1,Belgium,400000.0,18-30, EDM Fans,150000000.0,EDM,€,2,2,2
+2,Hungary,500000.0,18-40, International Attendees,130000000.0,Various,€,3,3,1
+3,Germany,90000.0,20-40, Rock Fans,80000000.0,Rock,€,4,4,3
+5,United Kingdom,100000.0,16-35, Rock and Indie Fans,60000000.0,Rock/Indie,£,5,1,4
+6,France,60000.0,30-60, Jazz Enthusiasts,20000000.0,Jazz,€,6,5,5
+7,Spain,40000.0,18-35, Pop and Indie Fans,15000000.0,Pop/Indie,€,7,6,6
+8,Serbia,200000.0,18-30, Electronic and Rock Fans,50000000.0,Electronic/Rock,€,8,7,7
+9,Spain,200000.0,20-40, Indie and Electronic Music Lovers,70000000.0,Indie/Electronic,€,9,6,8
+10,Germany,100000.0,18-35, Alternative Music Fans,40000000.0,Alternative,€,10,4,9
+11,Belgium,200000.0,18-35, Diverse Music Genres,60000000.0,Various,€,11,2,1
+12,Spain,150000.0,16-30, Pop and Rock Fans,30000000.0,Pop/Rock,€,12,6,10
+13,Belgium,200000.0,18-35, Rock and Electronic Fans,55000000.0,Rock/Electronic,€,13,2,11
+14,Belgium,150000.0,18-40, Rock Enthusiasts,85000000.0,Rock,€,14,2,3
+15,Spain,100000.0,20-40, Electronic Music Fans,35000000.0,Electronic,€,15,6,12
+16,Germany,75000.0,18-45, Metal Fans,45000000.0,Metal,€,16,4,13
+17,United Kingdom,80000.0,18-35, Rock and Pop Fans,40000000.0,Rock/Pop,£,17,1,14
+18,Netherlands,90000.0,18-30, EDM Fans,25000000.0,EDM,€,2,8,2
+19,United Kingdom,40000.0,18-35, Indie and Alternative Music Fans,15000000.0,Indie/Alternative,£,18,1,15
+20,United Kingdom,45000.0,18-40, Diverse Music and Arts Fans,20000000.0,Various,£,19,1,1
+21,United Kingdom,30000.0,18-35, Music and Action Sports Fans,12000000.0,Various,£,20,1,1
+22,United Kingdom,25000.0,18-40, Indie and Folk Music Fans,10000000.0,Indie/Folk,£,21,1,16
+23,Germany,40000.0,20-45, Metal and Hardcore Fans,30000000.0,Metal/Hardcore,€,22,4,17
+24,United Kingdom,80000.0,18-30, Electronic and Indie Music Fans,25000000.0,Electronic/Indie,£,23,1,18
+25,United Kingdom,60000.0,18-35, EDM Fans,30000000.0,EDM,£,24,1,2
+27,United Kingdom,70000.0,18-35, EDM Fans,35000000.0,EDM,£,24,1,2
+30,Spain,35000.0,18-40, Indie and Electronic Fans,18000000.0,Indie/Electronic,€,25,6,8
+32,Spain,80000.0,18-35, Rock and Alternative Fans,45000000.0,Rock/Alternative,€,26,6,19
+35,United Kingdom,45000.0,18-35, Electronic and Urban Music Fans,22000000.0,Electronic/Urban,£,27,1,20
+36,Greece,30000.0,18-35, Rock and Electronic Fans,12000000.0,Rock/Electronic,€,13,9,11
+37,Finland,35000.0,18-35, Pop and Rock Fans,10000000.0,Pop/Rock,€,28,10,10
+38,Germany,50000.0,18-35, Electronic and Indie Fans,25000000.0,Electronic/Indie,€,29,4,18
+39,United Kingdom,30000.0,18-35, Electronic and Dance Fans,15000000.0,Electronic/Dance,£,30,1,21
+40,United Kingdom,60000.0,18-40, Diverse Music and Arts Fans,40000000.0,Various,£,19,1,1
+42,France,75000.0,18-35, Rock and Electronic Fans,30000000.0,Rock/Electronic,€,13,5,11
+43,Spain,35000.0,18-35, Electronic and Rock Fans,15000000.0,Electronic/Rock,€,31,6,7
+47,Spain,50000.0,18-35, Rock and Pop Fans,22000000.0,Rock/Pop,€,17,6,14
+48,United Kingdom,30000.0,18-40, Rock and Alternative Fans,15000000.0,Rock/Alternative,£,32,1,19
+49,United Kingdom,80000.0,18-35, Rock and Alternative Fans,35000000.0,Rock/Alternative,£,26,1,19
+50,Germany,35000.0,18-40, Electronic and Rock Fans,18000000.0,Electronic/Rock,€,33,4,7
+51,Hungary,20000.0,25-60, Jazz Fans,12000000.0,Jazz,€,34,3,5
+53,Germany,25000.0,18-35, Electronic and Alternative Fans,12000000.0,Electronic/Alternative,€,35,4,22
+54,Romania,50000.0,18-35, Electronic and Rock Fans,25000000.0,Electronic/Rock,€,31,11,7
+55,United Kingdom,20000.0,18-35, Emerging Artists and Indie Fans,10000000.0,Indie,£,36,1,23
+58,United Kingdom,60000.0,18-40, Rock and Pop Fans,30000000.0,Rock/Pop,£,37,1,14
+59,Italy,25000.0,18-50, Classical and Jazz Fans,10000000.0,Classical/Jazz,€,38,12,24
+60,Netherlands,60000.0,18-35, LGBTQ+ and Pop Fans,30000000.0,Pop,€,39,8,25
+63,Montenegro,50000.0,18-35, EDM and Techno Fans,20000000.0,EDM/Techno,€,40,13,26
+64,Spain,30000.0,18-35, Pop and Indie Fans,12000000.0,Pop/Indie,€,7,6,6
+65,Germany,40000.0,18-45, Stoner Rock and Metal Fans,25000000.0,Stoner Rock/Metal,€,41,4,27
+68,Belgium,30000.0,18-35, Dark and Electronic Fans,15000000.0,Dark/Electronic,€,42,2,28
+70,Spain,25000.0,25-60, Classical and Jazz Fans,12000000.0,Classical/Jazz,€,43,6,24
+71,United Kingdom,35000.0,18-35, Indie and Rock Fans,15000000.0,Indie/Rock,£,44,1,29
+72,United Kingdom,40000.0,25-60, Folk and Celtic Music Fans,20000000.0,Folk/Celtic,£,45,1,30
+75,Hungary,20000.0,25-60, Classical Music Fans,15000000.0,Classical,€,46,3,31
+76,Ireland,50000.0,18-40, Indie and Electronic Fans,30000000.0,Indie/Electronic,€,25,14,8
+79,Croatia,45000.0,18-30, EDM and Beach Fans,25000000.0,EDM,€,47,15,2
+80,United Kingdom,25000.0,18-35, Folk and Acoustic Fans,12000000.0,Folk/Acoustic,£,48,1,32
+88,Italy,35000.0,18-35, Classical and Opera Fans,20000000.0,Classical/Opera,€,49,12,33
+89,Portugal,30000.0,18-35, Fado and Pop Fans,15000000.0,Fado/Pop,€,50,16,34
+90,Austria,25000.0,18-40, Classical and Electronic Fans,12000000.0,Classical/Electronic,€,51,17,35
+118,Finland,25000.0,18-35, Folk Metal Fans,12000000.0,Folk Metal,€,52,10,36
+123,Malta,15000.0,18-35, EDM and Pop Fans,8000000.0,EDM/Pop,€,53,18,37
+124,Latvia,10000.0,18-35, Rock and Folk Fans,5000000.0,Rock/Folk,€,54,19,38
+125,Estonia,15000.0,18-40, Electronic and Indie Fans,7000000.0,Electronic/Indie,€,55,20,18
+126,Lithuania,20000.0,18-35, Rock and Jazz Fans,10000000.0,Rock/Jazz,€,56,21,39
+127,Luxembourg,12000.0,18-40, Diverse Music Genres,6000000.0,Various,€,57,22,1
+128,Cyprus,10000.0,18-35, Pop and Rock Fans,4000000.0,Pop/Rock,€,28,23,10
+129,Slovakia,15000.0,18-40, Rock and Electronic Fans,7000000.0,Rock/Electronic,€,58,24,11
+130,Slovenia,18000.0,18-35, Alternative and Indie Fans,9000000.0,Alternative/Indie,€,59,25,40
+131,Croatia,25000.0,18-35, Rock and EDM Fans,12000000.0,Rock/EDM,€,60,15,41
+132,Portugal,30000.0,18-35, Fado and Indie Fans,15000000.0,Fado/Indie,€,61,16,42
+136,Albania,10000.0,18-35, Rock and Pop Fans,5000000.0,Rock/Pop,€,17,26,14
+137,Kosovo,12000.0,18-35, Electronic and Indie Fans,6000000.0,Electronic/Indie,€,29,27,18
+138,Montenegro,10000.0,18-40, Rock and Jazz Fans,5000000.0,Rock/Jazz,€,62,13,39
+167,Andorra,8000.0,18-35, Rock and Electronic Fans,4000000.0,Rock/Electronic,€,13,28,11
+168,San Marino,10000.0,18-35, Pop and Jazz Fans,5000000.0,Pop/Jazz,€,63,29,43
+170,Monaco,12000.0,18-40, Jazz and Electronic Fans,6000000.0,Jazz/Electronic,€,64,30,44
+171,Vatican City,5000.0,18-60, Classical and Choral Fans,2000000.0,Classical/Choral,€,65,31,45
