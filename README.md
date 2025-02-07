@@ -1,4 +1,4 @@
-#### Spotify Project**# README: European Music Festivals & Spotify Analysis Project
+**#### Spotify Project**# README: European Music Festivals & Spotify Analysis Project**
 
 ## **Slide Link**
 
