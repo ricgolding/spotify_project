@@ -1,5 +1,9 @@
 # README: European Music Festivals & Spotify Analysis Project
 
+## **Important Note**
+
+Raw data was too big to upload to github therefore only clean data is available
+
 ## **Slide Link**
 
 https://docs.google.com/presentation/d/1P4ZyNYR9u3nwYB5Au8nzhGsWQB2inA31FhbB9lHld-o/edit#slide=id.g32b07c4d2dd_0_35
